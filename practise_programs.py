@@ -1,3 +1,4 @@
+#guess the word game
 word = "python"
 guess = ""
 guess_count = 0
